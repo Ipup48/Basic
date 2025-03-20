@@ -7,7 +7,7 @@ public class factorial {
         int num = scanner.nextInt(); 
         long factorial = 1; 
 
-        // ใช้ for loop เพื่อคำนวณค่า factorial
+       
         for (int i = 1; i <= num; i++) { 
             factorial *= i; 
         }
