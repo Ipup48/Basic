@@ -15,6 +15,6 @@ public class factorial {
         
         System.out.println("Factorial  " + num + " is " + factorial);
 
-        scanner.close(); // ปิด Scanner                                         
+        scanner.close();                                        
     }
 }
