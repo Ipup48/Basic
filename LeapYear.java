@@ -7,7 +7,7 @@ public class LeapYear {
         int year = sc.nextInt();
         boolean isLeapYear = (year % 4 == 0 && year % 100 != 0) || (year % 400 == 0);
 
-        // แสดงผลลัพธ์
+        
         if (isLeapYear) {
             System.out.println(year + "(Leap Year)");
         } else {
